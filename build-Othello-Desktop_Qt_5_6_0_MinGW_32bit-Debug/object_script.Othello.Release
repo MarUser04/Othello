@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\juego.o
+./release\tablero.o
+./release\tablerografico.o
+./release\ficha.o
+./release\menu.o
+./release\inteligenciaartificial.o
+./release\score.o
+./release\moc_tablerografico.o
+./release\moc_menu.o
+);

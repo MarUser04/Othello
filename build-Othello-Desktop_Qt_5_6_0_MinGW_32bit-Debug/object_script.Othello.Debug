@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\juego.o
+./debug\tablero.o
+./debug\tablerografico.o
+./debug\ficha.o
+./debug\menu.o
+./debug\inteligenciaartificial.o
+./debug\score.o
+./debug\moc_tablerografico.o
+./debug\moc_menu.o
+);
